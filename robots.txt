@@ -1,0 +1,6 @@
+User-agent: *
+disallow: /PartnerServices.aspx*
+disallow: /shop/cart/
+disallow: /popup/
+disallow: /Templates/Popup.aspx?*
+disallow: /shop/plans/Retail/
